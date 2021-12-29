@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ozgur</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h2 align="left">Hi 👋, I'm Ozgur</h2>
 
-- 🌱 I’m currently learning **JavaScript, React, React Native**
-
-- 💬 Ask me about **React**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, React and React Native**
 
 - 📫 How to reach me **oktayozgur94@gmail.com**
 
