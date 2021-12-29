@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Ozgur</h2>
+<h2 align="left">Hi 👋, I'm Özgür</h2>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React and React Native**
 - 📫 How to reach me: **oktayozgur94@gmail.com**
