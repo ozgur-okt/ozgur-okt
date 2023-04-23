@@ -1,6 +1,5 @@
 <h2 align="left">Hi 👋, I'm Özgür</h2>
 
-- 🌱 I’m currently learning **React and React Native**
 - 📫 How to reach me: **oktayozgur94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
